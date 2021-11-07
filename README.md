@@ -1,4 +1,9 @@
-### Notes on Flask 
+### Demo Portfolio on Flask
+
+Launch a personal portfolio using flask ; provided is a demo portfolio 
+from (Mashup-templates)[https://www.mashup-template.com/]
+
+### How to test 
 
 need to:
 
@@ -11,7 +16,4 @@ http://127.0.0.1:5000/
 
 flask run
 
------------------
-
-for variable URLs -- important for API building , form submissions etc.
-https://flask.palletsprojects.com/en/2.0.x/api/#url-route-registrations
+See: ./flask-env-setup.sh
