@@ -1,7 +1,7 @@
 ### Demo Portfolio on Flask
 
 Launch a personal portfolio using flask ; provided is a demo portfolio 
-from (Mashup-templates)[https://www.mashup-template.com/]
+from [Mashup-templates](https://www.mashup-template.com/)
 
 ### How to test 
 
